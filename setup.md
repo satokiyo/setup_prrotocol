@@ -20,7 +20,7 @@
 
 - installs
 
-  - git
+  - git（WSLonly、GitWindows不要。二重管理しないため。GitconfigをWSL、DOCKERで設定）
   - kubectl
   - minikube
   - docker
