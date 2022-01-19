@@ -29,5 +29,5 @@
   - vscode
 
 - Git config
- 
+
 [参考](https://blog.katsubemakito.net/git/git-config-1st)
