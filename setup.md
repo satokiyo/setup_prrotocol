@@ -18,6 +18,8 @@
 
 - windowsターミナルインストール
 
+- Ubuntu起動して、プロパティ→編集オプション→貼り付けを有効化
+
 - installs
 
   - git（WSLonly、GitWindows不要。二重管理しないため。GitconfigをWSL、DOCKERで設定）
