@@ -27,6 +27,7 @@
   - minikube
   - docker
   - vscode
+  - python3(WSL) https://pythonlinks.python.jp/ja/index.html -> python3で起動するバージョンはmake　install、それ以外はmake　altinstall
 
 - Git config
 
