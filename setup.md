@@ -27,7 +27,7 @@
   - minikube
   - docker
   - vscode
-  - python3(WSL) https://pythonlinks.python.jp/ja/index.html 
+  - python3(WSL) https://pythonlinks.python.jp/ja/index.html https://www.python.jp/install/ubuntu/index.html
   - $ sudo apt update
 $ sudo apt install build-essential libbz2-dev libdb-dev \
   libreadline-dev libffi-dev libgdbm-dev liblzma-dev \
