@@ -27,7 +27,14 @@
   - minikube
   - docker
   - vscode
-  - python3(WSL) https://pythonlinks.python.jp/ja/index.html -> python3で起動するバージョンはmake　install、それ以外はmake　altinstall
+  - python3(WSL) https://pythonlinks.python.jp/ja/index.html 
+  - $ sudo apt update
+$ sudo apt install build-essential libbz2-dev libdb-dev \
+  libreadline-dev libffi-dev libgdbm-dev liblzma-dev \
+  libncursesw5-dev libsqlite3-dev libssl-dev \
+  zlib1g-dev uuid-dev tk-dev
+  →　./configure　→　make　→　make　install
+  - -> python3で起動するバージョンはmake　install、それ以外はmake　altinstall
 
 - Git config
 
