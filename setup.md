@@ -27,6 +27,13 @@
   - minikube
   - docker
   - vscode
+   - settings.jsonに追記。自動フォーマットが効かない場合、flake8とblackをインストールし、settings.jsonにPATHを追加する。
+     "editor.formatOnSave": true,
+     "editor.defaultFormatter": "esbenp.prettier-vscode",
+     "python.formatting.provider": "black",
+     "[python]": {
+       "editor.defaultFormatter": null,
+     },  
   - python3(WSL) https://pythonlinks.python.jp/ja/index.html https://www.python.jp/install/ubuntu/index.html
   - $ sudo apt update
 $ sudo apt install build-essential libbz2-dev libdb-dev \
