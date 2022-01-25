@@ -44,5 +44,7 @@ $ sudo apt install build-essential libbz2-dev libdb-dev \
   - -> python3で起動するバージョンはmake　install、それ以外はmake　altinstall
 - Golang
 - Git configを共通で設定
+- teraterm 
+- winmerge
 
 [参考](https://blog.katsubemakito.net/git/git-config-1st)
