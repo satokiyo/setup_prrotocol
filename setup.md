@@ -34,6 +34,7 @@
      "[python]": {
        "editor.defaultFormatter": null,
      },  
+    - ユーザースニペットのPython言語にimport pdb;pdb.set_trace()を登録しておく
   - python3(WSL) https://pythonlinks.python.jp/ja/index.html https://www.python.jp/install/ubuntu/index.html
   - $ sudo apt update
 $ sudo apt install build-essential libbz2-dev libdb-dev \
