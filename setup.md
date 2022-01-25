@@ -46,5 +46,9 @@ $ sudo apt install build-essential libbz2-dev libdb-dev \
 - Git configを共通で設定
 - teraterm 
 - winmerge
+- devtoys
+- wireshark
+- virtualbox
+- vmware
 
 [参考](https://blog.katsubemakito.net/git/git-config-1st)
