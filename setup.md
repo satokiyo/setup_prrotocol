@@ -42,7 +42,7 @@ $ sudo apt install build-essential libbz2-dev libdb-dev \
   zlib1g-dev uuid-dev tk-dev
   →　./configure　→　make　→　make　install
   - -> python3で起動するバージョンはmake　install、それ以外はmake　altinstall
-
-- Git config
+- Golang
+- Git configを共通で設定
 
 [参考](https://blog.katsubemakito.net/git/git-config-1st)
