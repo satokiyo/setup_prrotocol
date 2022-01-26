@@ -67,5 +67,7 @@
   - virtualbox
 
   - vmware
+  
+  - aws cli, eks cli (wsl only)
 
 [参考](https://blog.katsubemakito.net/git/git-config-1st)
